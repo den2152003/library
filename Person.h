@@ -1,0 +1,1 @@
+//ad1, sach[num].trangthai
